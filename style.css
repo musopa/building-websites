@@ -1,0 +1,118 @@
+/* Building Websites CSS 30/11/2019 Author P Lacey */
+/* ---------------------------------------------------
+Reset
+-----------------------------------------------------*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* ---------------------------------------------------
+General Site Pages
+-----------------------------------------------------*/
+body {
+  color: #000;
+  background: #FAFAD2;
+  font: 100%/1 "DejaVu Sans", "URW Gothic L", "Helvetica Neue", Helvetica, Arial, "Microsoft Sans Serif", sans-serif;
+  width: 100%;
+}
+
+p {
+  border:20px;
+  color: #005;
+  font-size: 1.5em;
+  line-height: 25px;
+  margin: auto;
+  padding:10px;
+  width: 80%;
+}
+
+h1 {
+  color: #005;
+  font-size: 2.5em;
+  padding: 10px;
+  text-shadow: 3px 3px 3px #999;
+}
+
+h2 {
+  color: #005;
+  font-size: 2.3em;
+  padding: 10px;
+  text-shadow: 3px 3px 3px #999;
+}
+
+h3 {
+  color: #005;
+  font-size: 1.5em;
+  padding: 10px;
+  text-shadow: 3px 3px 3px #999;
+}
+
+.center {
+  text-align: center;
+}
+
+img {
+  border:1em;
+  -moz-border-radius: 1em;
+  -o-border-radius: 1em;
+  -webkit-border-radius: 1em;
+  border-radius: 1em;
+  width: 50%;
+}
+
+#feed {
+	padding:5px;
+
+}
+
+.navbar {
+	border-bottom: 1px solid #000;
+    border-right: 1px solid #000;
+    border-left: 1px solid #000;
+    border-top: 1px solid #000;
+    border:1px solid #000;
+	 -moz-border-radius: 1em;
+    -o-border-radius: 1em;
+    -webkit-border-radius: 1em;
+    border-radius: 1em;
+	margin: auto;
+	width: 30%;
+}
+
+.link a {
+  color: blue;
+  border-bottom: 1px solid #000;
+  border-right: 1px solid #000;
+  border-left: 1px solid #000;
+  border-top: 1px solid #000;
+  border:1px solid #000;
+  -moz-border-radius: 1em;
+  -o-border-radius: 1em;
+  -webkit-border-radius: 1em;
+  border-radius: 1em;
+  background-color: #FAFAD2;
+  display: inline-block;
+  font-family: arial, sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin-left: 10%;
+  margin-bottom:10px;
+  width: 80%;
+}
+
+a:hover {
+  color: blue;
+  background-color: #EEE8AA;
+}
+
+.paragraphs {
+  color: blue;
+  background: #FAFAD2;
+  border:1px;
+  margin-left: 10%;
+  width: 80%;
+}

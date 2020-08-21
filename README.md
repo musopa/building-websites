@@ -1,0 +1,2 @@
+# Building Websites
+<p>This WebSite was created for my studies on HTML&#44; CSS and JavaScript&#44; the aim is to create a study site&#44; where I can come on-line and find articles&#44; instructional videos&#44; and websites of interest&#46; learning and using the various code to construct websites that can be viewed on all platforms ie&#46; mobile phones and tablets as well as desktop computers and laptops&#46; I will be adding different page designs instead of this boring functional site as I progress with this course and learn more&#46;😊</p>
